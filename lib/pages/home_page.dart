@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
             padding: const EdgeInsets.only(left: 24.0),
             child: IconButton(
               icon: Icon(
-                Icons.menu,
+                Icons.shopping_basket_outlined,
                 color: Colors.grey[800],
                 size: 36,
               ),
@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
               padding: const EdgeInsets.only(right: 24.0),
               child: IconButton(
                 icon: Icon(
-                  Icons.person,
+                  Icons.person_2_outlined,
                   color: Colors.grey[800],
                   size: 36,
                 ),
